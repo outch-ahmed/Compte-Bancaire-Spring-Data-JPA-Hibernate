@@ -1,0 +1,16 @@
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\JpaUtils.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\repositories\CompteRepository.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\TypeCompte.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\AbstractEntity.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\icompterepo\impls\CompteRepoImpls.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\icompterepo\ICompteRepository.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Adresse.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Compte.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Type.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\hbm\SpringHbmConfig.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\AppConfig.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Banque.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\iservierepo\ICompteService.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\iservie\impls\CompteService.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Agence.java
+C:\Users\Stagiaire\eclipse-workspace\evaluation\eval.spring.orm\src\main\java\fr\aston\poec\spring\orm\domains\Client.java

@@ -1,0 +1,16 @@
+fr\aston\poec\spring\orm\icompterepo\impls\CompteRepoImpls.class
+fr\aston\poec\spring\orm\icompterepo\ICompteRepository.class
+fr\aston\poec\spring\orm\domains\Compte.class
+fr\aston\poec\spring\orm\domains\Banque.class
+fr\aston\poec\spring\orm\iservierepo\ICompteService.class
+fr\aston\poec\spring\orm\domains\TypeCompte.class
+fr\aston\poec\spring\orm\hbm\SpringHbmConfig.class
+fr\aston\poec\spring\orm\iservie\impls\CompteService.class
+fr\aston\poec\spring\orm\domains\Agence.class
+fr\aston\poec\spring\orm\domains\JpaUtils.class
+fr\aston\poec\spring\orm\AppConfig.class
+fr\aston\poec\spring\orm\domains\Type.class
+fr\aston\poec\spring\orm\repositories\CompteRepository.class
+fr\aston\poec\spring\orm\domains\Client.class
+fr\aston\poec\spring\orm\domains\AbstractEntity.class
+fr\aston\poec\spring\orm\domains\Adresse.class

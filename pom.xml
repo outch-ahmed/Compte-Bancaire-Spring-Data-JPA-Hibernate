@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>fr.aston.poec.spring</groupId>
+	<artifactId>evaluation</artifactId>
+	<version>1.0</version>
+	<packaging>pom</packaging>
+	 <properties>
+        <maven.compiler.source>15</maven.compiler.source>
+        <maven.compiler.target>15</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <spring-framework.version>5.3.6</spring-framework.version>
+        <spring-data-jpa.version>2.5.0</spring-data-jpa.version>
+        <hibernate.version>5.4.30.Final</hibernate.version>
+        <mysql.version>8.0.24</mysql.version>
+        <testng.version>7.4.0</testng.version>
+        <junit.version>5.7.1</junit.version>
+        <lombok.version>1.18.20</lombok.version>
+    </properties>
+	<modules>
+		<module>eval.spring.orm</module>
+	</modules>
+</project>
